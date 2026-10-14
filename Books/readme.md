@@ -1,0 +1,1 @@
+All the PDFs are downloaded from the official [eGyanKosh website (BCA_NEW)](https://egyankosh.ac.in/handle/123456789/106391).
